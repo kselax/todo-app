@@ -1,0 +1,9 @@
+.spin {
+  display: inline-block;
+  margin: 0 0 -8px 5px
+}
+
+.add-todo {
+  padding: 5px;
+  margin: 5px;
+}

@@ -1,0 +1,10 @@
+export const ADD_TODO = 'ADD_TODO'
+export const ADD_TODO_R = 'ADD_TODO_R'
+export const SET_TODO_SPINNER = 'SET_TODO_SPINNER'
+export const TOGGLE_TODO = 'TOGGLE_TODO'
+export const SET_FILTER = 'SET_FILTER'
+
+export const SET_ALL_TODOS = 'SET_ALL_TODOS'
+export const DEL_TODO = 'DEL_TODO'
+export const DEL_TODO_R = 'DEL_TODO_R'
+export const SET_PAGE = 'SET_PAGE'

@@ -1,0 +1,6 @@
+DB:
+  CONNECTIONLIMIT: 10
+  HOST: localhost
+  USER: test
+  PASSWORD: test
+  DATABASE: todoapp
